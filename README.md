@@ -3,7 +3,7 @@
 - 🔭 Estou a trabalhar em Projectos PHP e Laravel
 - 🌱 Actualmente estou a aprender muito
 - 💬 Pergunte-me qualquer coisa sobre Tecnologia
-- 📫 Me contacte com o email: Fredericomoiana@gmail.com
+- 📫 Me contacte pelo o email: Fredericomoiana@gmail.com
 - ⚡ Facto curioso: Além de programar gosto de redes de computadores✨⚡
 
 <div>
